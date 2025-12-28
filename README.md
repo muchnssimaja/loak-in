@@ -53,8 +53,7 @@ Aplikasi ini menggunakan arsitektur **MVC (Model–View–Controller)**:
 
 ## ⚙️ Cara Instalasi & Menjalankan Project
 
-### 1️⃣ Clone Repository
-```bash
+1️⃣ Clone Repository
 git clone https://github.com/muchnssimaja/loak-in.git
 
 2️⃣ Masuk ke Folder Project
@@ -89,8 +88,8 @@ Akses aplikasi di:
 http://127.0.0.1:8000
 
 🧪 Akun Default (Jika Ada Seeder)
-
-Jika belum ada, silakan registrasi manual melalui halaman register.
+admin@loak-in.test
+password123
 
 📂 Struktur Folder Penting
 app/
