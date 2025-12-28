@@ -52,7 +52,7 @@ Aplikasi ini menggunakan arsitektur **MVC (Model–View–Controller)**:
 ---
 
 ## ⚙️ Cara Instalasi & Menjalankan Project
-
+```bash
 1️⃣ Clone Repository
 git clone https://github.com/muchnssimaja/loak-in.git
 
